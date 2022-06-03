@@ -23,6 +23,8 @@
 - MongoDB
 - Mongoose
 - Heroku
+- Morgan
+- Compression
 ```
 
 ## Mock Up
