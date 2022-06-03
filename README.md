@@ -20,13 +20,16 @@
 ```
 - IndexedDB
 - Express.js
+- MongoDB
+- Mongoose
+- Heroku
 ```
 
 ## Mock Up
-![fizzyblog Screenshot](./public/images/Fizzy-Blog-Mockup.png)
+![fizzybudget Screenshot]()
 
 ## Heroku Deployment
-https://quiet-refuge-09071.herokuapp.com/homepage
+
 
 ## Questions
 
