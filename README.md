@@ -28,10 +28,10 @@
 ```
 
 ## Mock Up
-![fizzybudget Screenshot]()
+![fizzybudget Screenshot](./public/img/budget%20tracker%20img.png)
 
 ## Heroku Deployment
-
+https://young-coast-89865.herokuapp.com/
 
 ## Questions
 
