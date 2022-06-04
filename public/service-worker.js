@@ -6,7 +6,7 @@ const DATA_CACHE_NAME = 'data-cache' + VERSION;
 const FILES_TO_CACHE = [
   "./index.html",
   "./css/styles.css",
-  "./manifest.js",
+  "./manifest.json",
   "/",//this includes anything in the public folder/front end
   "./js/idb.js",
   "./js/index.js",
